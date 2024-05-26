@@ -1,4 +1,8 @@
 ## Hi there 👋
+This is Dinesh
+- 🌱 I’m currently learning PYHTON for datascience and ML
+  
+
 
 <!--
 **Dinesh-2108/Dinesh-2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
